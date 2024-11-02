@@ -41,6 +41,11 @@ Here are some ideas to get you started:
 ![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
