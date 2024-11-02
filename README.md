@@ -30,9 +30,12 @@ Here are some ideas to get you started:
 ## Tools & Frameworks
 
 ![Python](https://skillicons.dev/icons?i=py)
-![SQL](https://skillicons.dev/icons?i=sqlite)
+![mySQL](https://skillicons.dev/icons?i=mysql)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![CSS](https://skillicons.dev/icons?i=css)
+![C++](https://skillicons.dev/icons?i=cpp)
+![HTML](https://skillicons.dev/icons?i=html)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
