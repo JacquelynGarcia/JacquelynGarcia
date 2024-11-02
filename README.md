@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything and everything **D A T A**.
 - 📫 How to reach me: jag053@ucsd.edu
 - 😄 Pronouns: She/Her/Ella
-- ⚡ Fun fact: I make the best italian wedding soup!
+- ⚡ Fun fact: Known for my data skills *and* my Italian wedding soup – I've been told it's the best you'll ever have!
