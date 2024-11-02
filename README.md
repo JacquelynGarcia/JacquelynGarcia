@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![CSS](https://skillicons.dev/icons?i=css)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 ![MatLab](https://skillicons.dev/icons?i=matlab)
 ![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)
