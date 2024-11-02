@@ -22,7 +22,7 @@ I am a junior Data Science major at University of California, San Diego with a p
 - 💬 Ask me about anything and everything **D A T A**.
 - 😄 Pronouns: She/Her/Ella
 - 🌴 Location: San Diego, CA
-- ⚡ Fun fact: Known for my data skills *and* my Italian wedding soup – the best of both worlds!
+- ⚡ Fun fact: Known for my chocolate chip banana bread *and* my Italian wedding soup – the best of both worlds!
 
 ## Connect with Me
 
