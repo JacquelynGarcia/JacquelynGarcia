@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jag053@ucsd.edu
 - 😄 Pronouns: She/Her/Ella
 - ⚡ Fun fact: Known for my data skills *and* my Italian wedding soup – The best of both worlds!
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacquelyn-garcia)
