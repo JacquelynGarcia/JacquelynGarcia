@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![SQL](https://skillicons.dev/icons?i=sqlite)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
