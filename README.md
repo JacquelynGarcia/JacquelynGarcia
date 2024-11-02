@@ -1,4 +1,4 @@
-## Hi there, I am Jacquelyn Garcia 👋
+## Hi there, I'm Jacquelyn Garcia 👋
 
 <!--
 **JacquelynGarcia/JacquelynGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a junior Data Science major at University of California, San Diego with a passion for data engineering.
 
 - 🔭 I’m currently working on using neural networks to make stock price predictions.
 - 🌱 I’m currently learning how to set up my own postgreSQL database.
