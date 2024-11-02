@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Python](https://skillicons.dev/icons?i=py)
 ![SQL](https://skillicons.dev/icons?i=sqlite)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
