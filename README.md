@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am a junior Data Science major at University of California, San Diego with a passion for data engineering.
 
 - 🔭 I’m currently working on using neural networks to make stock price predictions.
-- 🌱 I’m currently learning how to set up my own postgreSQL database.
+- 🌱 I’m currently learning how to contribute to Open Source Projects.
 - 👯 I’m looking to collaborate on data pipeline projects!
 - 💬 Ask me about anything and everything **D A T A**.
 - 😄 Pronouns: She/Her/Ella
