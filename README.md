@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a junior Data Science major at University of California, San Diego with a passion for data engineering.
+
 Anticipated Graduation Date: June 2026
 
 - 🔭 I’m currently working on using neural networks to make stock price predictions.
