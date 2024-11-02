@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on using neural networks to make stock price predictions.
 - 🌱 I’m currently learning how to set up my own postgreSQL database.
 - 👯 I’m looking to collaborate on data engineering projects!
-- 💬 Ask me about anything and everything ## DATA !
+- 💬 Ask me about anything and everything **D A T A** !
 - 📫 How to reach me: jag053@ucsd.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
