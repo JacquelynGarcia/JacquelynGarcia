@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on data engineering projects!
 - 💬 Ask me about anything and everything **D A T A**.
 - 😄 Pronouns: She/Her/Ella
-- ⚡ Fun fact: Known for my data skills *and* my Italian wedding soup – The best of both worlds!
+- ⚡ Fun fact: Known for my data skills *and* my Italian wedding soup – the best of both worlds!
 
 ## Connect with Me
 
