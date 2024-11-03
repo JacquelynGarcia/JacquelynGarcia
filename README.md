@@ -21,7 +21,7 @@ I am a junior Data Science major at University of California, San Diego with a p
 - 👯 I’m looking to collaborate on data pipeline projects!
 - 💬 Ask me about anything and everything **D A T A**.
 - 😄 Pronouns: She/Her/Ella
-- 🌴 Location: San Diego, CA
+- 🌴 Location: San Diego, CA, United States
 - ⚡ Fun fact: Known for my chocolate chip banana bread *and* my Italian wedding soup – the best of both worlds!
 
 ## Connect with Me
