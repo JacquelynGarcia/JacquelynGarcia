@@ -1,4 +1,4 @@
-## Hi there, I'm Jacquelyn Garcia 👋
+## Hi there, I'm Jackie Garcia 👋
 
 <!--
 **JacquelynGarcia/JacquelynGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
