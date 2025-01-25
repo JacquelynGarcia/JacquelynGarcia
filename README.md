@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a junior Data Science major at University of California, San Diego with a passion for data engineering.
 
-- 🔭 I’m currently working on using machine learning to make stock price predictions.
+- 🔭 I’m currently working on a kaggle competition to promote equitable AI for dermatology.
 - 🌱 I’m currently learning how to contribute to Open Source Projects.
 - 👯 I’m looking to collaborate on data pipeline projects!
 - 💬 Ask me about anything and everything **D A T A**.
