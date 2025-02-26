@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a junior Data Science major at University of California, San Diego with a passion for data engineering.
+I am a junior Data Science major at University of California, San Diego with a passion for software engineering & ai/ml.
 
 - 🔭 I’m currently working on a kaggle competition to promote equitable AI for dermatology.
 - 🌱 I’m currently learning how to contribute to Open Source Projects.
