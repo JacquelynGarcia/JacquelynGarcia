@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 I am a junior Data Science major at University of California, San Diego with a passion for Software Engineering & AI/ML.
 
-- 🔭 I’m currently working on a kaggle competition to promote equitable AI for dermatology.
+- 🔭 I’m currently working on a kaggle competition to promote equitable AI for dermatology using CNNs.
 - 🌱 I’m currently learning how to contribute to Open Source Projects.
-- 👯 I’m looking to collaborate on data pipeline projects!
 - 💬 Ask me about anything and everything **D A T A**.
 - 😄 Pronouns: She/Her/Ella
 - 🌴 Location: San Diego, CA, United States
-- ⚡ Fun fact: Known for my chocolate chip banana bread *and* my Italian wedding soup – the best of both worlds!
+- ⚡ Fun fact: I spend most of my free time reading fantasy and sci-fi. Feel free to send me recommendations!
 
 ## Connect with Me
 
