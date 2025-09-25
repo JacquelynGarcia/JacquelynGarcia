@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a junior Data Science major at University of California, San Diego with a passion for Software Engineering & AI/ML.
 
-- 🔭 I’m currently working on parallel and scalable data processing.
+- 🔭 I’m currently working on recommendation systems.
 - 🌱 I’m currently learning how to contribute to Open Source Projects.
 - 💬 Ask me about anything and everything **D A T A**.
 - 😄 Pronouns: She/Her/Ella
